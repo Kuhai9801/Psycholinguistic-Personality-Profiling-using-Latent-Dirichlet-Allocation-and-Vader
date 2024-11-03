@@ -1,4 +1,4 @@
-# Psycholinguistic-Personality-Profiling-using-Latent-Dirichlet-Allocation-for-Social-Network-Analysis
+# Psycholinguistic Personality Profiling using Latent Dirichlet Allocation and Vader
 An analysis on the psycholinguistics of twitter tweets
 
 **Project Description:**
